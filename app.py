@@ -108,7 +108,10 @@ st.markdown("---")
 # ── Sidebar ────────────────────────────────────────────────────────────────────
 st.sidebar.header("⚙️ Configuration")
 
-api_key = os.getenv("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY", None)
+try:
+    api_key = os.getenv("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY", None)
+except Exception:
+    api_key = os.getenv("GEMINI_API_KEY", None)
 
 if not api_key:
     api_key = st.sidebar.text_input(
