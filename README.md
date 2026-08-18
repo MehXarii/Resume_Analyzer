@@ -1,4 +1,4 @@
-# 🎯 AI Resume Analyzer
+# AI Resume Analyzer
 
 An intelligent resume analysis tool that scores your resume against any job description, identifies missing ATS keywords, highlights weaknesses, and rewrites your bullet points using **Google Gemini AI**.
 
@@ -6,31 +6,31 @@ Built as a portfolio project to demonstrate full-stack AI development skills.
 
 ---
 
-## 🚀 Live Demo
-👉 https://mehak-resume-analyzer.streamlit.app
+## Live Demo
+ https://mehak-resume-analyzer.streamlit.app
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![App Interface](screenshots/interface.png)
 
 ---
 
-## ✨ Features
+## Features
 
-- 📄 **PDF Resume Parsing** — extracts text from any PDF resume
-- 🎯 **ATS Match Score** — rates your resume 0–100 against the job description
-- ✅ **Strengths Detection** — highlights what you're doing right
-- 🚨 **Missing Keywords** — shows exactly what keywords ATS systems are looking for
-- ⚠️ **Weak Areas** — identifies gaps in your resume
-- ✍️ **Bullet Point Rewriter** — rewrites your bullets with stronger action verbs and measurable impact
-- 📥 **Downloadable Report** — download your full analysis as a `.txt` file
-- 🤖 **Model Selector** — switch between Gemini models from the sidebar
+- **PDF Resume Parsing** — extracts text from any PDF resume
+- **ATS Match Score** — rates your resume 0–100 against the job description
+- **Strengths Detection** — highlights what you're doing right
+- **Missing Keywords** — shows exactly what keywords ATS systems are looking for
+- **Weak Areas** — identifies gaps in your resume
+- **Bullet Point Rewriter** — rewrites your bullets with stronger action verbs and measurable impact
+- **Downloadable Report** — download your full analysis as a `.txt` file
+- **Model Selector** — switch between Gemini models from the sidebar
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -41,12 +41,12 @@ Built as a portfolio project to demonstrate full-stack AI development skills.
 
 ---
 
-## ⚙️ Run Locally
+## Run Locally
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/MehXarii/resume-analyzer.git
-cd resume-analyzer
+git clone https://github.com/MehXarii/.git
+cd Resume_Analyzer
 ```
 
 **2. Install dependencies**
@@ -71,7 +71,7 @@ Opens at `http://localhost:8501`
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 resume-analyzer/
@@ -87,7 +87,7 @@ resume-analyzer/
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 | Variable | Description |
 |----------|-------------|
@@ -97,14 +97,14 @@ For Streamlit Cloud deployment, add this under **App Settings → Secrets**.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Mehak Ansari**
 - GitHub: [@MehXarii](https://github.com/MehXarii)
-- LinkedIn: [linkedin.com/in/mehak-ansari](https://linkedin.com/in/mehak-ansari) ← *(update with your actual LinkedIn URL)*
+- LinkedIn: [linkedin.com/in/mehak-ansari](https://www.linkedin.com/in/mehak-ansari-80144a246?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
