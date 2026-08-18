@@ -7,13 +7,13 @@ Built as a portfolio project to demonstrate full-stack AI development skills.
 ---
 
 ## 🚀 Live Demo
-👉 **[Try it here](https://your-app-name.streamlit.app)** ← *(update this link after deployment)*
+👉 https://mehak-resume-analyzer.streamlit.app
 
 ---
 
 ## 📸 Preview
 
-> Upload your resume PDF + paste a job description → get instant AI feedback
+![App Interface](screenshots/interface.png)
 
 ---
 
